@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150308732778",
+    "project_id": "drec-59ddf",
+    "storage_bucket": "drec-59ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150308732778:android:12f41498200c97b9c32f13",
+        "android_client_info": {
+          "package_name": "com.example.drec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150308732778-kfhm4ss0mqa6el79r5t7otuh7rgjsk1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0gwhPES0FPQV36Yb7Hyiav7iCOiWS8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150308732778-kfhm4ss0mqa6el79r5t7otuh7rgjsk1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
